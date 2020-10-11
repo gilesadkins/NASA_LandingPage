@@ -5,13 +5,13 @@ body{
 }
 .mainContainer{
   background-image: url(spacePic.jpg);
-  height: 60%;
+  height: 65%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 main{
-  height: 40%;
+  height: 35%;
   display: flex;
   justify-content: space-evenly;
   background-color: rgb(235, 235, 235);
@@ -34,4 +34,14 @@ h2{
 p{
   display: flex;
   flex-direction: column;
+}
+ul{
+  display: flex;
+  flex-direction: column;
+}
+ls{
+  margin: 2pt;
+}
+.MSG{
+  padding-bottom: 60px;
 }
